@@ -64,6 +64,7 @@ Enfin, j'ai utilisé en legende la colonne **Manager Name** qui contient le nom 
 <p align="center">
   <img width="600" " src="https://github.com/user-attachments/assets/44e2f7dc-a632-4cf2-9b58-f576cd5d0906">
 </p>
+
 #### Temps d'Attente par Equipe
 
 <p align="center">
